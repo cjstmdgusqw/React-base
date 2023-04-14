@@ -1,4 +1,4 @@
-function SubApp(){
+const SubApp = () =>{
     return(
         <p>Sub react!!</p>
     )
